@@ -1,12 +1,9 @@
 {
   "packageId": "com.leaf.reader",
-  "versionName": "1.0.7",
-  "versionCode": 8,
+  "versionName": "1.0.8",
+  "versionCode": 9,
   "apkUrl": "https://github.com/locodafux/leaf-android-releases/releases/download/latest/app-release.apk",
   "notes": [
-    "Continuous EPUB reading with saved reader position and improved chapter navigation.",
-    "Persistent narration controls with pause and resume, plus chapter-range offline downloads.",
-    "Improved reading accessibility, themes, adaptive layouts, and safer local book removal.",
-    "Phone-width library and reader refinements."
+    "Fixes narration and chapter downloads for EPUB paragraphs containing only punctuation or symbols."
   ]
 }
