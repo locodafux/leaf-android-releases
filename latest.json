@@ -1,10 +1,11 @@
 {
   "packageId": "com.leaf.reader",
-  "versionName": "1.0.10",
-  "versionCode": 11,
+  "versionName": "1.0.11",
+  "versionCode": 12,
   "apkUrl": "https://github.com/locodafux/leaf-android-releases/releases/download/latest/app-release.apk",
   "notes": [
-    "Improves text contrast in the dark mode narration player.",
-    "Gives the player a dark surface with readable controls in the dark reading theme."
+    "Refines the library with a paper shelf, clearer book titles, and larger controls.",
+    "Improves reader chapter progress, tactile narration controls, and dark-theme styling.",
+    "Makes reading settings and downloads easier to read and use."
   ]
 }
