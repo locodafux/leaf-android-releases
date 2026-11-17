@@ -1,9 +1,10 @@
 {
   "packageId": "com.leaf.reader",
-  "versionName": "1.0.8",
-  "versionCode": 9,
+  "versionName": "1.0.9",
+  "versionCode": 10,
   "apkUrl": "https://github.com/locodafux/leaf-android-releases/releases/download/latest/app-release.apk",
   "notes": [
-    "Fixes narration and chapter downloads for EPUB paragraphs containing only punctuation or symbols."
+    "Redesigns Library, Reader, Downloads, and Reading settings with tactile light skeuomorphic styling.",
+    "Adds library search and a continue-reading card powered by your saved progress."
   ]
 }
