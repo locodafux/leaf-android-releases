@@ -1,9 +1,11 @@
 {
   "packageId": "com.leaf.reader",
-  "versionName": "1.0.12",
-  "versionCode": 13,
+  "versionName": "1.0.13",
+  "versionCode": 14,
   "apkUrl": "https://github.com/locodafux/leaf-android-releases/releases/download/latest/app-release.apk",
   "notes": [
-    "Improves the foundations for future download and narration enhancements."
+    "Pause, resume, and retry narration downloads.",
+    "See storage used by saved narration and remove it by chapter or book.",
+    "Improve recovery when saving or removing audio fails."
   ]
 }
