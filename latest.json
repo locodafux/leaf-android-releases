@@ -1,11 +1,11 @@
 {
   "packageId": "com.leaf.reader",
-  "versionName": "1.0.13",
-  "versionCode": 14,
+  "versionName": "1.0.14",
+  "versionCode": 15,
   "apkUrl": "https://github.com/locodafux/leaf-android-releases/releases/download/latest/app-release.apk",
   "notes": [
-    "Pause, resume, and retry narration downloads.",
-    "See storage used by saved narration and remove it by chapter or book.",
-    "Improve recovery when saving or removing audio fails."
+    "Smooths narration transitions by preparing the next paragraph.",
+    "Shows whether narration is saved or needs an internet connection.",
+    "Adds a clear retry action when narration fails."
   ]
 }
