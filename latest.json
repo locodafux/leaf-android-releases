@@ -1,11 +1,11 @@
 {
   "packageId": "com.leaf.reader",
-  "versionName": "1.0.14",
-  "versionCode": 15,
+  "versionName": "1.0.15",
+  "versionCode": 16,
   "apkUrl": "https://github.com/locodafux/leaf-android-releases/releases/download/latest/app-release.apk",
   "notes": [
-    "Smooths narration transitions by preparing the next paragraph.",
-    "Shows whether narration is saved or needs an internet connection.",
-    "Adds a clear retry action when narration fails."
+    "Sort your library by recently opened, title, or author.",
+    "See EPUB cover art in your library when supported.",
+    "Keep a generated Leaf cover when an EPUB cover is unavailable."
   ]
 }
