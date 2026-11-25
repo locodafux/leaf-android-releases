@@ -1,9 +1,11 @@
 {
   "packageId": "com.leaf.reader",
-  "versionName": "1.0.17",
-  "versionCode": 18,
+  "versionName": "1.0.18",
+  "versionCode": 19,
   "apkUrl": "https://github.com/locodafux/leaf-android-releases/releases/download/latest/app-release.apk",
   "notes": [
-    "Makes the offline chapter save button readable in dark mode."
+    "Browse your library, downloads and settings with labeled tabs and Ant Design icons.",
+    "Import your first EPUB from the library, or resume a book from its reading card.",
+    "See selected reading preferences and distinguish saved downloads from failed ones at a glance."
   ]
 }
